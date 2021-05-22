@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&display=swap');
+
+body{
+    background-color: #002E46 !important;
+    font-family: 'Catamaran', sans-serif !important;
+}
+
+.d{
+    border: 2px solid orange;
+}
+
+
+
+footer{
+    background-color: #212121 !important;
+}
+
+#mapa{
+    
+    border: 2px solid red;
+}
+
+.card{
+    transition: all .2s ease-out ;
+}
+
+.card-title{
+    color: #17a2b8;
+    font-weight: bolder;
+}
+.card:hover{
+    box-shadow: 2px 2px 9px 3px rgba(0,0,0,0.3) !important;
+    
+}
+
+.carousel-caption{
+    background-color: rgba(0,0,0,0.3);
+    color: #ffbc4a !important;
+    /* width: 100%; */
+    /* margin: 0 auto; */
+    font-size: 1.8em;
+}
+
+.carousel-caption h5{
+    font-size: 1.3em;
+    font-weight: bolder;
+    /* text-shadow: -2p 2px 4px 3px red !important; */
+}
+.carousel-caption p{
+    color:seashell;
+}
+
+.fa{
+    transition: all .3s;
+}
+.fa:hover{
+    color:crimson !important;
+    cursor: pointer;
+    
+}
+
+#calculador h4{
+    color: #17a2b8 !important;
+}
